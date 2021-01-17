@@ -7,7 +7,9 @@ I am qualified for this job as I have experience in applications such as Figma a
 
 # Experience
 
-## University of Washington 2017 - present (Seattle, WA)
+## [University of Washington](https://www.washington.edu/) 2017 - present (Seattle, WA)
+![a picture of the University of Washington's the Quad](https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/92/2015/02/07205301/Cherries.jpg)
+> "I'm boundless!"
 
 ### Shiny App about Human Freedom Index
 
@@ -20,6 +22,7 @@ I am qualified for this job as I have experience in applications such as Figma a
 
 
 ### MediMail
+[URL to prototype](https://www.figma.com/proto/w5LJbdErUliNebLDGNd0Rl/MediMail-App?node-id=2%3A0&scaling=scale-down)
 
 **Description**: As a group, we created an interactive prototype that would aid individuals that has a loved one that is hospitalized but can't visit the hospital often. MediMail will deliver updates from the hospital at an interval that the user decides. All information is HIPAA compliant.
 
