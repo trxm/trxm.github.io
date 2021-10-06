@@ -17,12 +17,19 @@ about 104,700 (Bornean), 13,846 (Sumatran), 800 (Tapanuli)
 ## **STATUS**
 Critically Endangered
 
-## Section 2
-One or several paragraphs.
-### (Optional) Subsection 1
-One or several paragraphs.
-### (Optional) Subsection 2
-One or several paragraphs.
+## **FACTS**
+- Orangutan are the largest of the great apes, sharing 97% of DNA with humans.
+- In the Malay language, orangutan means "person of the forest".
+- Orangutans can be found living in the lowland forests, where the species feast on mainly ripe fruits, greens, and some insects as snacks.
+- They are the most solitary of all the great apes.
+- They have the slowest life histories of any mammals. They are the slowest to grow up and reproduce.
+- Orangutans have opposable thumbs and big toes.
+- When male orangutan reach mature age, they develop large cheekpads that attract mates.
+- Orangutans' arms are longer than their body when it is stretched out. When on ground, they all on all fours.
+- They live in only two places in the world: Borneo and Sumatra in South East Asia.
+- Each night, orangutan makes a new nest in the trees where they can sleep. Sometimes, they'll build a nest for themselves!
+- For the first year of an infant's life, they will cling to their mothers and learn everything from her.
+- Orangutans are extremely intelligent, as they have been observed to make tools for scratching, foraging food, and using leaves as gloves to pick up spiny fruit and branches.
 
 ## Section 3
 One or several paragraphs for subsection 3.
@@ -34,5 +41,5 @@ One or several paragraphs for subsection 3.
 
 ## References
 1. [World Wild Life](https://www.worldwildlife.org/species/orangutan)
-2. Reference 2
-3. Reference 3
+2. [Orangutan Foundation International](https://orangutanfoundation.org.au/orangutans/)
+3. [The Orangutan Project](https://www.theorangutanproject.org/about-orangutans/orangutan-facts/)
